@@ -38,11 +38,11 @@
 
 <br>
 
-## 📊 My Github Stats
+<!-- ## 📊 My Github Stats
 
 <img align="start" src="https://github-readme-stats.vercel.app/api?username=runingcoder&show_icons=true&theme=midnight-purple&line_height=24&hide=stars&bg_color=0d1117" />
 
-<img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runingcoder&layout=compact&theme=midnight-purple&bg_color=0d1117" />
+<img align="end" src="https://github-readme-stats.vercel.app/api/top-langs/?username=runingcoder&layout=compact&theme=midnight-purple&bg_color=0d1117" /> -->
 
 
 <br>
